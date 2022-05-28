@@ -2,7 +2,7 @@
 
 <h2>Blog Ignews</h2>
 
-<strong>Project:</strong> Make a Blog with data persistend in FaunaDB, with locked content that opens when logged in user makes a payment over Stripe.  Using:
+<strong>Project:</strong> Make a Blog with data persisted in FaunaDB, with locked content that opens when logged in user makes a payment over Stripe.  Using:
 
 <ul>
   <li>React.js</li>
